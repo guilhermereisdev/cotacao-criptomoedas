@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color palha
+color primary_color
+color white
+drawable ic_app_logo
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_refresh_prices
+id ic_app_logo
+id tv_bitcoin_label
+id tv_bitcoin_price
+id tv_ethereum_label
+id tv_ethereum_price
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string btc_label
+string btc_price
+string btn_refresh_prices
+string eth_label
+string eth_price
+style Base.Theme.CotacaoCriptomoedas
+style Theme.CotacaoCriptomoedas
+xml backup_rules
+xml data_extraction_rules
