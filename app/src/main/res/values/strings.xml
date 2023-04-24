@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CotacaoCriptomoedas</string>
+
+    <string name="btc_label">Bitcoin: </string>
+    <string name="eth_label">Ethereum: </string>
+
+    <string name="btc_price">R$ 0,00</string>
+    <string name="eth_price">R$ 0,00</string>
+    <string name="btn_refresh_prices">Atualizar Preços</string>
+</resources>
